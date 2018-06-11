@@ -1,0 +1,12 @@
+{
+  "appId" : "ZjBmYTJkNjZkYzYz",
+  "scriptId" : "10",
+  "appDb" : "ZjBmYTJkNjZkYzYz",
+  "dbService" : "http://assist.docer.wps.cn/mongotest/",
+  "isDev" : false,
+  "feedbackUrl" : "http://support.qq.com/products/28474",
+  "bindPage" : true,
+  "title" : "预算报价助手",
+  "icon" : "icon.png",
+  "action" : "DecorationBudget"
+}
