@@ -3,7 +3,7 @@ require 'sdk'
 require_relative 'src/apis'
 require 'Qt'
 
-module DecorationBudget
+module AIOffice
   
   class MainApp < KSO_SDK::App
   
