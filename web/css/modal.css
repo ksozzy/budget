@@ -81,7 +81,7 @@ textarea {
   height: 16px;
   margin-top: -10px;
   float: right;
-  background: url(../img/ic_exit_normal.png?v=201806191541) left center no-repeat;
+  background: url(../img/ic_exit_normal.png?v=201806210011) left center no-repeat;
   cursor: pointer;
 }
 .select-tip p {
@@ -96,13 +96,13 @@ textarea {
   height: 101px;
   margin: auto;
   margin-bottom: 22px;
-  background: url(../img/image_01.png?v=201806191541) no-repeat;
+  background: url(../img/image_01.png?v=201806210011) no-repeat;
 }
 .select-tip .select-example-img02 {
   width: 232px;
   height: 101px;
   margin: auto;
-  background: url(../img/image_02.png?v=201806191541) no-repeat;
+  background: url(../img/image_02.png?v=201806210011) no-repeat;
 }
 .select-tip .ok-btn {
   width: 232px;

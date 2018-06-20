@@ -98,14 +98,14 @@ textarea {
   width: 278px;
   height: 99px;
   margin: auto;
-  background: url(../img/image_a@2x.png?v=201806191541) left center no-repeat;
+  background: url(../img/image_a@2x.png?v=201806210011) left center no-repeat;
   background-size: 100% 100%;
 }
 .import .import-block .import-example-img2 {
   width: 278px;
   height: 99px;
   margin: auto;
-  background: url(../img/image_b@2x.png?v=201806191541) left center no-repeat;
+  background: url(../img/image_b@2x.png?v=201806210011) left center no-repeat;
   background-size: 100% 100%;
 }
 .import .import-block .import-footer {
@@ -119,7 +119,7 @@ textarea {
 .main .tip-icon {
   width: 100%;
   height: 80px;
-  background: url(../img/tip.png?v=201806191541) center center no-repeat;
+  background: url(../img/tip.png?v=201806210011) center center no-repeat;
 }
 .main .main-tip {
   text-align: center;
@@ -145,7 +145,7 @@ textarea {
 }
 .main .begin-tip-img {
   width: 30px;
-  background: url(../img/tip.png?v=201806191541) no-repeat;
+  background: url(../img/tip.png?v=201806210011) no-repeat;
   background-size: 20px 20px;
 }
 .main .begin-tip-content {
@@ -191,7 +191,7 @@ textarea {
 .title-block .file-title {
   display: inline-block;
   width: 100%;
-  background: url(../img/16et.png?v=201806191541) left center no-repeat;
+  background: url(../img/16et.png?v=201806210011) left center no-repeat;
   padding-left: 22px;
   margin-left: 12px;
   font-size: 14px;
@@ -267,7 +267,7 @@ textarea {
   cursor: pointer;
   width: 16px;
   height: 16px;
-  background: url(../img/remove_normal.png?v=201806191541) left center no-repeat;
+  background: url(../img/remove_normal.png?v=201806210011) left center no-repeat;
 }
 .source .columns-block .content-columns .columns .column:first-child {
   margin-top: 0;
@@ -303,7 +303,7 @@ textarea {
   width: 267px;
   height: 77px;
   margin: auto;
-  background: url(../img/select_example.png?v=201806191541) no-repeat;
+  background: url(../img/select_example.png?v=201806210011) no-repeat;
   background-size: 100% 100%;
   margin-top: 10px;
 }
@@ -419,13 +419,13 @@ textarea {
   height: 101px;
   margin: auto;
   margin-bottom: 22px;
-  background: url(../img/image_01.png?v=201806191541) no-repeat;
+  background: url(../img/image_01.png?v=201806210011) no-repeat;
 }
 .work .content-columns .columns .column .column-pop .prompt-column .select-example-img02 {
   width: 232px;
   height: 101px;
   margin: auto;
-  background: url(../img/image_02.png?v=201806191541) no-repeat;
+  background: url(../img/image_02.png?v=201806210011) no-repeat;
 }
 .work .content-columns .columns .column:first-child {
   margin-top: 0;
@@ -546,7 +546,7 @@ textarea {
   width: 16px;
   height: 16px;
   float: right;
-  background: url(../img/ic_exit_normal.png?v=201806191541) left center no-repeat;
+  background: url(../img/ic_exit_normal.png?v=201806210011) left center no-repeat;
   cursor: pointer;
 }
 .work .make-introduce p {
@@ -561,13 +561,13 @@ textarea {
   height: 101px;
   margin: auto;
   margin-bottom: 22px;
-  background: url(../img/image_01.png?v=201806191541) no-repeat;
+  background: url(../img/image_01.png?v=201806210011) no-repeat;
 }
 .work .make-introduce .select-example-img02 {
   width: 232px;
   height: 101px;
   margin: auto;
-  background: url(../img/image_02.png?v=201806191541) no-repeat;
+  background: url(../img/image_02.png?v=201806210011) no-repeat;
 }
 .success {
   padding-bottom: 20px;
@@ -596,7 +596,7 @@ textarea {
   margin: auto;
   margin-top: 21px;
   margin-bottom: 36px;
-  background: url(../img/image_04.png?v=201806191541) no-repeat;
+  background: url(../img/image_04.png?v=201806210011) no-repeat;
   background-size: 100% 100%;
 }
 .success .success-block .success-example02-img {
@@ -605,7 +605,7 @@ textarea {
   margin: auto;
   margin-top: 21px;
   margin-bottom: 36px;
-  background: url(../img/image_05.png?v=201806191541) no-repeat;
+  background: url(../img/image_05.png?v=201806210011) no-repeat;
   background-size: 100% 100%;
 }
 .success .success-block .success-example03-img {
@@ -614,7 +614,7 @@ textarea {
   margin: auto;
   margin-top: 21px;
   margin-bottom: 56px;
-  background: url(../img/image_06.png?v=201806191541) no-repeat;
+  background: url(../img/image_06.png?v=201806210011) no-repeat;
   background-size: 100% 100%;
 }
 .success .success-block .success-btn {
@@ -633,7 +633,7 @@ textarea {
   position: relative;
   display: inline-block;
   width: 100%;
-  background: url(../img/et_32.png?v=201806191541) left center no-repeat;
+  background: url(../img/et_32.png?v=201806210011) left center no-repeat;
   background-size: 32px 32px;
   padding-left: 45px;
   box-sizing: border-box;
@@ -762,7 +762,7 @@ textarea {
   box-sizing: border-box;
 }
 .kso-tip .have-tip-icon {
-  background: url(../img/bulb.png?v=201806191541) left 1px no-repeat;
+  background: url(../img/bulb.png?v=201806210011) left 1px no-repeat;
   background-size: 16px 16px;
   padding-left: 22px;
   box-sizing: border-box;
@@ -772,7 +772,7 @@ textarea {
   color: #F47928;
 }
 .important .have-tip-icon {
-  background: url(../img/orange.png?v=201806191541) left 1px no-repeat;
+  background: url(../img/orange.png?v=201806210011) left 1px no-repeat;
 }
 .kso-header {
   height: 32px;
@@ -832,7 +832,7 @@ textarea {
   width: 16px;
   height: 16px;
   float: right;
-  background: url(../img/ic_exit_normal.png?v=201806191541) left center no-repeat;
+  background: url(../img/ic_exit_normal.png?v=201806210011) left center no-repeat;
   cursor: pointer;
 }
 .kso-modal .mask .modal-layout .modal-content {
