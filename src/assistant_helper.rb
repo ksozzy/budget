@@ -27,7 +27,7 @@ module AssistantHelper
     settings = KSO_SDK::Settings.new(context)
 
     dir = File.dirname(__FILE__) 
-    resPath = File.join(dir, "../#{context.scriptId}/res")
+    resPath = File.join(dir, "res")
     
     settings.write(KSO_SDK::Title, context.title) unless settings.keyExist?(KSO_SDK::Title)
     settings.write(KSO_SDK::ApplicationName, "#{KSO_SDK::getAppType()}") unless settings.keyExist?(KSO_SDK::ApplicationName)
