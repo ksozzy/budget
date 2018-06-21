@@ -6,7 +6,7 @@
   "isDev" : false,
   "feedbackUrl" : "http://support.qq.com/products/28474",
   "bindPage" : true,
-  "title" : "预算报价助手",
+  "title" : "报价预算助手",
   "icon" : "icon.png",
   "action" : "AIOffice_Budget",
   "shareUrl" : "ksocustomprotocol://dockerWpp/http://10.13.90.213:82/10001950.pptx"

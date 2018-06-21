@@ -1,5 +1,5 @@
 window.CUSTOM_CONF = {
-  name: '装修报价助手',
+  name: '报价预算助手',
   vedioUrl: 'http://open.docer.wps.cn/#/home',
   vedioTimeLength: '00:05:00',
   vedioText: '视频演示',
