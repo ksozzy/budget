@@ -1,7 +1,7 @@
 window.CUSTOM_CONF = {
   name: '报价预算助手',
-  vedioUrl: 'http://open.docer.wps.cn/#/home',
-  vedioTimeLength: '00:05:00',
+  vedioUrl: 'http://v.youku.com/v_show/id_XMzYzMjQ1MTg2NA==.html?spm=a2hzp.8253869.0.0',
+  vedioTimeLength: '00:02:52',
   vedioText: '视频演示',
   tryBtn: {
     text: '马上试用',
