@@ -18,4 +18,3 @@ window.CUSTOM_CONF = {
   },
   userAgreement: 'http://img3.file.cache.docer.com/storage/file/d/3/5/d/4/5abbd25e3076c8f9540ce036d1fb7f4f.html'
 }
-http://img5.file.cache.docer.com/storage/gif/8/2/1/c/2/498e8570231eaec71537d533c7a8142d.gif
